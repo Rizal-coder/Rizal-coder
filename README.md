@@ -31,4 +31,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I share web development knowledge on Youtube and read technology articles.
 
-- :mailbox:How to reach me: [![instagram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![instagram Badge](https://img.shields.io/badge/-rizal_rohman12-purple?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/rizal_rohman12)
